@@ -1,0 +1,2 @@
+This branch is all of the other branches manually merged because I had everyone create their own 
+PyCharm projects instead of making one on my computer and making that main. Everyone had their own naming structure and different subdirectories. I made this branch, created a new project and copy pasted everything from the other branches. everyone was working on their own things anyway so there weren't any conflicts

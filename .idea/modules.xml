@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wordstat.iml" filepath="$PROJECT_DIR$/.idea/wordstat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Word Stat Prime/.idea/Word Stat Prime.iml" filepath="$PROJECT_DIR$/../Word Stat Prime/.idea/Word Stat Prime.iml" />
     </modules>
   </component>
 </project>
